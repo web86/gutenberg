@@ -11,6 +11,7 @@
 | День | Тема | Код |
 | --- | --- | --- |
 | 01 | [Создаём свой первый блок Gutenberg](./01-first-gutenberg-block/) | [Web86 Hello](./01-first-gutenberg-block/web86-hello/) |
+| 02 | [Структура файлов Gutenberg-блока](./02-block-file-structure/) | [Web86 File Map](./02-block-file-structure/web86-file-map/) |
 
 Следующие уроки будут добавляться в отдельные папки по мере публикации.
 
